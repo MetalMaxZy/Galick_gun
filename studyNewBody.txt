@@ -1,0 +1,2 @@
+1.UUID:通用唯一标识符 ,java.util.,用于分布式系统识别
+2.HttpClient:Http客服端编程工具
